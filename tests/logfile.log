@@ -1,0 +1,40 @@
+2020-03-19 10:26:28,727 :INFO : test_e2e :getting all the card titles
+2020-03-19 10:26:28,756 :INFO : test_e2e :iphone X
+2020-03-19 10:26:28,770 :INFO : test_e2e :Samsung Note 8
+2020-03-19 10:26:28,783 :INFO : test_e2e :Nokia Edge
+2020-03-19 10:26:28,797 :INFO : test_e2e :Blackberry
+2020-03-19 10:26:29,013 :INFO : test_e2e :Entering country name as ind
+2020-03-19 10:26:34,438 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-03-19 10:31:13,554 :INFO : test_e2e :getting all the card titles
+2020-03-19 10:31:13,581 :INFO : test_e2e :iphone X
+2020-03-19 10:31:13,593 :INFO : test_e2e :Samsung Note 8
+2020-03-19 10:31:13,606 :INFO : test_e2e :Nokia Edge
+2020-03-19 10:31:13,619 :INFO : test_e2e :Blackberry
+2020-03-19 10:31:13,844 :INFO : test_e2e :Entering country name as ind
+2020-03-19 10:31:19,267 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-03-19 10:36:28,908 :INFO : test_e2e :getting all the card titles
+2020-03-19 10:36:28,931 :INFO : test_e2e :iphone X
+2020-03-19 10:36:28,943 :INFO : test_e2e :Samsung Note 8
+2020-03-19 10:36:28,955 :INFO : test_e2e :Nokia Edge
+2020-03-19 10:36:28,968 :INFO : test_e2e :Blackberry
+2020-03-19 10:36:29,165 :INFO : test_e2e :Entering country name as ind
+2020-03-19 10:36:34,593 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-03-19 11:21:16,797 :INFO : test_e2e :getting all the card titles
+2020-03-19 11:21:16,830 :INFO : test_e2e :iphone X
+2020-03-19 11:21:16,843 :INFO : test_e2e :Samsung Note 8
+2020-03-19 11:21:16,857 :INFO : test_e2e :Nokia Edge
+2020-03-19 11:21:16,870 :INFO : test_e2e :Blackberry
+2020-03-19 11:21:17,055 :INFO : test_e2e :Entering country name as ind
+2020-03-19 11:21:22,613 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-03-19 11:21:48,831 :INFO : test_e2e :getting all the card titles
+2020-03-19 11:21:48,859 :INFO : test_e2e :iphone X
+2020-03-19 11:21:48,872 :INFO : test_e2e :Samsung Note 8
+2020-03-19 11:21:48,887 :INFO : test_e2e :Nokia Edge
+2020-03-19 11:21:48,901 :INFO : test_e2e :Blackberry
+2020-03-19 11:21:49,106 :INFO : test_e2e :Entering country name as ind
+2020-03-19 11:21:54,516 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
